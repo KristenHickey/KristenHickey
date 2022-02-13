@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Kristen, a full stack developer!
-
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_XC6Q3R.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay align="right"></lottie-player>
+<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_XC6Q3R.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 <img align="right" href="https://github.com/KristenHickey" src="https://assets2.lottiefiles.com/packages/lf20_XC6Q3R.json" height=350>
 
