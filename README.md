@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kristen, a full stack developer!
 
-<img align="right" href="https://github.com/hectorkd" src="./assets/desk-animation.gif" height=350>
+<img align="right" href="https://github.com/KristenHickey" src="https://lottiefiles.com/21468-my-desk" height=350>
 
 I am a full stack developer who loves taking on new and challenging projects. 
 
